@@ -4,19 +4,19 @@
 
 ---
 
-### 📂 Current Modules
+### Current Modules
 - `learn/` — notes & snippets
 - `practice/` — drills & experiments
 - `projects/` — mini real builds
 
 ---
 
-### 🛠️ Active Work
+### Active Work
 - Completing **Codecademy Full-Stack Career Path**
 - Building small projects nightly to sharpen skills
 - Documenting progress in public repos
 
 ---
 
-### 📡 Status
+### Status
 On night shift · Systems nominal
